@@ -1,0 +1,28 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: phrolova1
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: phrolova2
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: phrolova3
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+
+
+
+
